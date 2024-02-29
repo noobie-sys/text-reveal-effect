@@ -45,7 +45,7 @@ export default function Home() {
             CRAZYYY
           </h1>
           <h1 className="text">
-            HOVER ON ME
+            SCROLL 
             
           </h1>
           <h1 className="text">
